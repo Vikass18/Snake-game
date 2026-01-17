@@ -1,3 +1,3 @@
 # Snake Game 🐍
 
-🚀 Live Demo: snakegame-vikas.vercel.app
+🚀 Live Demo: https://snakegame-vikas.vercel.app
